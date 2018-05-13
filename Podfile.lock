@@ -1,0 +1,36 @@
+PODS:
+  - DJI-SDK-iOS (4.5.1)
+  - DJI-UXSDK-iOS (4.5.1)
+  - HaishinKit (0.8.8):
+    - Logboard (~> 1.1.2)
+  - Logboard (1.1.5)
+  - Socket.IO-Client-Swift (13.1.3):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.5)
+
+DEPENDENCIES:
+  - DJI-SDK-iOS
+  - DJI-UXSDK-iOS (~> 4.5.1)
+  - HaishinKit (~> 0.8.8)
+  - Socket.IO-Client-Swift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - DJI-SDK-iOS
+    - DJI-UXSDK-iOS
+    - HaishinKit
+    - Logboard
+    - Socket.IO-Client-Swift
+    - Starscream
+
+SPEC CHECKSUMS:
+  DJI-SDK-iOS: b8a99d90efd59855f4f1319071917a32e5536cbe
+  DJI-UXSDK-iOS: 9234ccb663dde92a88c4e3836c313e982d488afd
+  HaishinKit: 3f0079a56625050ea7f42af292ae9c554ff4872f
+  Logboard: 1d82e88cc1e431d3854952d360f3996028dccd58
+  Socket.IO-Client-Swift: d30d6fd08a38ad2a182b090936a043bf512ab2de
+  Starscream: faf918b2f2eff7d5dd21180646bf015a669673bd
+
+PODFILE CHECKSUM: 7031a6b56550c06199036d35912c755ab8c8b6e1
+
+COCOAPODS: 1.5.0.beta.1
